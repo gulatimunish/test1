@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","metadata":{"generated":1604654510000,"url":"","title":"Dummy Reservoir Targets","status":200,"api":"1.10.3","count":2},
+"features":[{"type":"Feature","properties":{"oil":2.1,"region":"Region1","title":"Reservoir Target 1"},"geometry":{"type":"Point","coordinates":[-151.3536,61.1636,83.3]}},
+    {"type":"Feature","properties":{"oil":4.9,"region":"Region2","title":"Reservoir Target 2"},"geometry":{"type":"Point","coordinates":[-159.3536,54.1636,23.3]}}],
+    "bbox":[-179.9572,-63.5089,-4.9,179.8214,81.6982,655.96]
+} 
